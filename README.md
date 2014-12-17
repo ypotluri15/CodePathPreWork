@@ -9,7 +9,7 @@ calculator displays tip amounts for the following percentages: 18%, 20%, 22%.
 However, as an extra, feature I added the ability to set a default custom tip
 amount that persists across sessions. Also, I completed a couple of the optional
 features. Namely, local currency support and thousands separators; as well as
-dark theme support.
+dark-theme support.
 
 Overall, this project took me ~3 hours to complete.
 
@@ -26,4 +26,4 @@ Overall, this project took me ~3 hours to complete.
 
 ## Walkthrough
 
-![](http://i.imgur.com/Q9Jttiw.gif)
+![GIF walthrough of app](http://i.imgur.com/Q9Jttiw.gif)
