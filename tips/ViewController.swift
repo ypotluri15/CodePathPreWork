@@ -41,6 +41,8 @@ class ViewController: UIViewController {
       percentages.insert(Double(customTip) / 100, atIndex: 3)
       tipPercentage.setTitle("\(customTip)%", forSegmentAtIndex: 3)
     }
+
+    updateBillAndTotal()
   }
   
   override func viewWillAppear(animated: Bool) {
